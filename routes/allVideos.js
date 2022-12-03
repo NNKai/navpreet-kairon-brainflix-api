@@ -9,7 +9,7 @@ const { PORT, BACKEND_URL } = process.env;
 
 // // Read data file
 function readInventory() {
-  const inventoryData = fs.readFileSync("./data/allVideos.json");
+  const inventoryData = fs.readFileSync("./data/videoData.json");
   const parsedData = JSON.parse(inventoryData);
   return parsedData;
 }

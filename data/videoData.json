@@ -1,0 +1,110 @@
+[
+    {
+        "id": "8",
+        "title":"India Vs Ireland",
+        "series" : "India v Ireland T20's 2022",
+        "img": "./images/irelandvsindia.jpg",
+        "duration" : "52:17",
+        "videoData" : [{
+            "src" : "https://ia904704.us.archive.org/3/items/2022-07-04-17-32-48/2022-07-04%2017-32-48.mp4",
+            "title" : "India Vs Ireland",
+            "series" : "India v Ireland T20's 2022",
+            "description":"Best effort from Harry Tector"
+        }]
+        
+    },
+    {
+        "id": "7",
+        "title":"Brian Lara 400 vs England!",
+        "series" : "West Indies v England 2004",
+        "img": "./images/brianlara.jpg",
+        "duration" : "11:11",
+        "videoData" : [{
+            "src" : "https://www.youtube.com/watch?v=fX606sM2jS0",
+            "title" : "Brian Lara 400 vs England!",
+            "series" : "West Indies v England 2004",
+            "description":"One of the best cricket innings ever"
+        }]
+        
+    },
+    {
+        "id": "6",
+        "title":"India Vs England Classic T20",
+        "series" : "England v India 2014",
+        "img": "./images/kohli.jpg",
+        "duration" : "13:04",
+        "videoData" : [{
+            "src" : "https://www.youtube.com/watch?v=9lF4d4w84uM&t=11s",
+            "title" : "India Vs England",
+            "series" : "England v India 2014",
+            "description":"One of the best cricket innings ever"
+        }]
+        
+    },
+    {
+        "id": "5",
+        "title":"Rohit Sharma Hits 140 vs Pakistan",
+        "series" : "World Cup 2019",
+        "img": "./images/rohit.webp",
+        "duration" : "06:15",
+        "videoData" : [{
+            "src" : "https://www.youtube.com/watch?v=AFEZzf9_EHk",
+            "title" : "Rohit Sharma Hits 140",
+            "series" : "World Cup 2019",
+            "description":"what a Innings by Rohit Sharma"
+        }]
+        
+    },
+    {
+        "id": "4",
+        "title":"India Vs South Africa Rare 1996",
+        "series" : "Titan Cup 1996 Match 4 ",
+        "img": "./images/indvssa1996.jpg",
+        "duration" : "13:38",
+        "videoData" : [{
+            "src" : "https://www.youtube.com/watch?v=PxwxcfE7s7w",
+            "title":"India Vs South Africa Rare 1996",
+            "series" : "Titan Cup 1996 Match 4 ",
+            "description":"One of the best cricket innings ever"
+        }]
+    },
+    {
+        "id": "3",
+        "title":"Rare Ipl Footage",
+        "series" : "IPL",
+        "img": "./images/ipl.jpeg",
+        "duration" : "11:17",
+        "videoData" : [{
+            "src" : "https://www.youtube.com/watch?v=I54haugImBs",
+            "title":"Rare Ipl Footage",
+            "series" : "IPL",
+            "description":"**Rare Footage** Watch Owners Playing for their own teams"
+        }]
+    },
+    {
+        "id": "2",
+        "title":"AUS VS SA World Cup 1999 Semi-Final Full Highlights",
+        "series" : "World Cup 1999",
+        "img": "./images/aus-sa.jpg",
+        "duration" : "01:38:18",
+        "videoData" : [{
+            "src" : "https://ia601506.us.archive.org/31/items/australia-vs-south-africa-1999/AustraliaVsSouthAfrica1999.m4v",
+            "title":"AUS VS SA Full Highlights",
+            "series" : "World Cup 1999",
+            "description":"One of the best cricket match ever"
+        }]
+    },
+    {
+        "id": "1",
+        "title":"Lance Klusener Semi-Final Innings 1999",
+        "series" : "World Cup 1999",
+        "img": "./images/283145.jpg",
+        "duration" : "08:02",
+        "videoData" : [{
+            "src" : "https://ia601507.us.archive.org/35/items/lance-klusner1999innings/Lance%20Klusner.mp4",
+            "title" : "Lance Klusner Innings Semi-Final 1999",
+            "series" : "World Cup 1999",
+            "description":"One of the best World-Cup innings ever"
+        }]
+    }
+]
